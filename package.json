@@ -7,7 +7,7 @@
     "node": "14.15.4"
   },
   "dependencies": {
-    "@dannadori/facemesh-worker-js": "^1.0.40",
+    "@tensorflow-models/face-landmarks-detection": "^0.0.3",
     "@tensorflow/tfjs": "^3.9.0",
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
