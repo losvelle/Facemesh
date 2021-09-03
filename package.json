@@ -2,6 +2,10 @@
   "name": "facemesh",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "npm": "7.13.0",
+    "node": "14.15.4"
+  },
   "dependencies": {
     "@dannadori/facemesh-worker-js": "^1.0.40",
     "@tensorflow/tfjs": "^3.9.0",
