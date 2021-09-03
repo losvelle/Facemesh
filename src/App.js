@@ -1,5 +1,4 @@
 import React, {useRef} from 'react';
-// import logo from './logo.svg';
 import './App.css';
 import * as tf from "@tensorflow/tfjs";
 import * as facemesh from "@tensorflow-models/facemesh";
